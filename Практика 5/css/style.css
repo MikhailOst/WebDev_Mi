@@ -1,0 +1,113 @@
+@import url(reset.css);
+
+header {
+position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #FE1A19;
+}
+header div {
+position: absolute;
+
+left: 20px;
+top: 20px;
+
+font-family: Helvetica;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+main div.one {
+position: absolute;
+width: 400px;
+height: 800px;
+left: 70px;
+top: 112px;
+
+border: 5px solid #E5E000;
+box-sizing: border-box;
+border-radius: 30px;
+
+}
+main div.two{
+position: absolute;
+width: 400px;
+height: 800px;
+left: 520px;
+top: 112px;
+
+border: 5px solid #E5E000;
+box-sizing: border-box;
+border-radius: 30px;
+
+}
+main div.three{
+position: absolute;
+width: 400px;
+height: 800px;
+left: 970px;
+top: 112px;
+
+border: 5px solid #E5E000;
+box-sizing: border-box;
+border-radius: 30px;
+
+}
+.header {
+position: absolute;
+width: 207px;
+height: 23px;
+left: 23px;
+top: 27px;
+font-weight: bold;
+font-family: Helvetica;
+font-size: 20px;
+line-height: 23px;
+
+display: block;
+align-items: center;
+
+color: #000000;
+}
+.text {
+position: absolute;
+width: 334px;
+height: 670px;
+left: 23px;
+top: 97px;
+
+font-family: Times New Roman;
+font-size: 20px;
+line-height: 23px;
+display: block;
+align-items: center;
+
+color: #000000;
+}
+footer {
+position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 964px;
+
+background: #FE1A19;
+}
+footer p {
+position: absolute;
+top:20px;
+left:20px;
+font-family: Helvetica;
+font-size: 20px;
+line-height: 23px;
+align-items: center;
+color: #FFFFFF;
+}
